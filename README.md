@@ -47,3 +47,5 @@ The task was to create a script that switches the current user to the `betty` us
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+
